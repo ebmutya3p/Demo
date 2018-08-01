@@ -32,16 +32,14 @@
     [
         "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1533108004260,
-            "changeTime": 1533108004260,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1533109561979,
+            "changeTime": 1533109561979,
+            "contentHash": "5d01f3b640c9658c0be9fcc395da6b802cf0cc2c"
         }
     ],
     [
@@ -222,6 +220,266 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Autonumber__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects\\Account\\fields\\Autonumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 293,
+            "modifiedTime": 1533109246264,
+            "changeTime": 1533109246264,
+            "contentHash": "9a3347bd8cae68b9c71d5a6aaafa1620e0ca4cab",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9588,
+            "modifiedTime": 1533109246273,
+            "changeTime": 1533109246273,
+            "contentHash": "85b6befae9d8a8753da273a9bd3ff60ed9b038cc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9636,
+            "modifiedTime": 1533109246303,
+            "changeTime": 1533109246303,
+            "contentHash": "46840df8c370f0b75a5789a6fd0f7d015bec9db4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9636,
+            "modifiedTime": 1533109246309,
+            "changeTime": 1533109246309,
+            "contentHash": "8311ce37bc70a53786a1fe63074de67ccde41795",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9588,
+            "modifiedTime": 1533109246315,
+            "changeTime": 1533109246315,
+            "contentHash": "dab06d58430e3f5448ed5bf65ebc47ad6192ccec",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18018,
+            "modifiedTime": 1533109562024,
+            "changeTime": 1533109562024,
+            "contentHash": "4c9a1796e87ddacbc0997b2d34fd799a9ddfe4b6"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4953,
+            "modifiedTime": 1533109562035,
+            "changeTime": 1533109562035,
+            "contentHash": "586ae7559717e65cec82b3a1cfbee809863fa86e"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4617,
+            "modifiedTime": 1533109562041,
+            "changeTime": 1533109562041,
+            "contentHash": "fb455491c0a86fc2614bac9b09ac363fd7fa3581"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4613,
+            "modifiedTime": 1533109562050,
+            "changeTime": 1533109562050,
+            "contentHash": "7220dfd71078aa22c44aae216a62721ee5e7eff1"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533109246263,
+            "changeTime": 1533109246263,
+            "contentHash": "5218fef134bc0d7dde7adabe5565cc1bc255a5cd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533109246262,
+            "changeTime": 1533109246262,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533109246261,
+            "changeTime": 1533109246261,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533109246314,
+            "changeTime": 1533109246314,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533109246363,
+            "changeTime": 1533109246363,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1952,
+            "modifiedTime": 1533109561971,
+            "changeTime": 1533109561971,
+            "contentHash": "f33a2573c31fefbb0932626619f2f94fb7bf07ad"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 306,
+            "modifiedTime": 1533109561975,
+            "changeTime": 1533109561975,
+            "contentHash": "c9857fb8943ca37b9d83b45b0138ec463aacf5a3"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1041,
+            "modifiedTime": 1533109561980,
+            "changeTime": 1533109561980,
+            "contentHash": "4e1c555e89ee6ac79ef1d86818bb828285e458c4"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533109561970,
+            "changeTime": 1533109561970,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533109561975,
+            "changeTime": 1533109561975,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\THIRD PILLAR\\Documents\\HerokuTest\\SFDX\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533109561979,
+            "changeTime": 1533109561979,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
         }
     ]
 ]
